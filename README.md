@@ -6,18 +6,17 @@ Date: December 30,2021
 
 This case study follows the 5 phases of analysis:
 
-Ask 
+❓Ask 
 
-Prepare
+📚Prepare
 
-Process
+💾Process
 
-Analyze 
+💡 Analyze 
 
-Share 
+🔰Share 
 
-Act 
-
+🎨Act 
 
 # Scenerio 
 
