@@ -30,5 +30,23 @@ Primary Stakeholders- Urška Sršen and Sando Mur
 
 Secondary Stakeholder- Bellabeat marketing analytics team 
 
+Guiding questions
+
+● What is the problem you are trying to solve?
+ 
+ Unlocking new growth opportunities for bellabeat  
+
+● How can your insights drive business decisions?
+
+Insights on this information will produce high-level recommendations
+
+Business questions to guide analysis:
+1. What are some trends in smart device usage?
+
+2. How could these trends apply to Bellabeat customers?
+
+3. How could these trends help influence Bellabeat marketing strategy?
+
+
 # Prepare 
 
