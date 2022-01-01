@@ -111,8 +111,8 @@ Cleaned and maniplulated  the data to ensure data is clean and ready for analysi
 
 ● How can you verify that your data is clean and ready to analyze?
 
-click[here]    for complete r scrip in github 
+All data cleaning was done is R and yes data is ready for analysis 
 
 ● Have you documented your cleaning process so you can review and share those results?
 
-
+click[here](https://github.com/Jocebc/BellaBeat-Analysis-) for complete r script in github
