@@ -1,4 +1,4 @@
-# CASE STUDY: BellaBeat
+# CASE STUDY: BellaBeat✨ 
 
 Author: Jocelyn Crawford
 
