@@ -55,7 +55,7 @@ Business questions to guide analysis:
 
 ● Where is your data stored?
 
-Data set is available on Kaggle https://www.kaggle.com/arashnic/fitbit.
+Data set is available on Kaggle [dataset](https://www.kaggle.com/arashnic/fitbit.)
 
 ● How is the data organized? 
 
@@ -79,6 +79,8 @@ personal tracker data via 3rd party Amazon Mechanical Turk.
 
 ● How are you addressing licensing, privacy, security, and accessibility?
 
+ The dataset [liscense](https://www.kaggle.com/arashnic)
+ 
 Thirty eligible Fitbit users consented to the submission of
 personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. This data  follows ROCC 
 
@@ -88,7 +90,7 @@ Data was collected via survery this informations isn"t avaliable
 
 ● How does it help you answer your question?
 
-● Are there any problems with the data?
+● Are there any problems with the Idata?
 
 Yes data has multiple limitations.Data was collected in 2016 so insights are not current.
 
@@ -97,11 +99,19 @@ Guiding questions
 
 ● What tools are you choosing and why?
 
+I used R via Rstudios to process and analyze data 
+
 ● Have you ensured your data’s integrity?
+
+Data integreity is unavaliable since data was done via survey.
 
 ● What steps have you taken to ensure that your data is clean?
 
+Cleaned and maniplulated  the data to ensure data is clean and ready for analysis
+
 ● How can you verify that your data is clean and ready to analyze?
+
+click[here]    for complete r scrip in github 
 
 ● Have you documented your cleaning process so you can review and share those results?
 
