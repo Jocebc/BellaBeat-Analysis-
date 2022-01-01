@@ -51,6 +51,7 @@ Business questions to guide analysis:
 # Prepare 
 
  Guiding questions
+
 ● Where is your data stored?
 
 Data set is available on Kaggle https://www.kaggle.com/arashnic/fitbit
