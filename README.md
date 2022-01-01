@@ -115,4 +115,4 @@ All data cleaning was done is R and yes data is ready for analysis
 
 ● Have you documented your cleaning process so you can review and share those results?
 
-click[here](https://github.com/Jocebc/BellaBeat-Analysis-) for complete r script in github
+click [here](https://github.com/Jocebc/BellaBeat-Analysis-) for complete r script in github
