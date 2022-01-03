@@ -99,7 +99,7 @@ Guiding questions
 
 ● What tools are you choosing and why?
 
-I used R via Rstudios to process and analyze data 
+processed using R via Rstudios  
 
 ● Have you ensured your data’s integrity?
 
