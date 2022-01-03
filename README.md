@@ -88,11 +88,11 @@ personal tracker data, including minute-level output for physical activity, hear
 
 Data was collected via survery this informations isn"t avaliable
 
-● How does it help you answer your question?
-
-● Are there any problems with the Idata?
+● Are there any problems with the data?
 
 Yes data has multiple limitations.Data was collected in 2016 so insights are not current.
+
+Overall, the dataset is considered bad quality data and it is not recommended to produce business recommendations based on this data.
 
 # Process 
 Guiding questions
