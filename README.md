@@ -24,7 +24,7 @@ Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned
 
 # Ask 
 
-Buisness Task-analyze smart device usage data in order to gain insight into how consumers use FitBit devices. 
+Buisness Task-Analyze FitBit fitness tracker data to gain insights into how consumers are using the FitBit app and discover trends for Bellabeat marketing strategy.
 
 Primary Stakeholders- Urška Sršen and Sando Mur
 
